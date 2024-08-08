@@ -3,7 +3,7 @@
 ## Description
 1,000 People - Italian Handwriting OCR Data. The writers are Europeans who often write Italian. The device is scanner, the collection angle is eye-level angle. The dataset content includes address, company name, personal name.The dataset can be used for tasks such as Italian handwriting OCR.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1406?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/ocr/1406?source=Github
 
 
 ## Data size
